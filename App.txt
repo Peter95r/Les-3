@@ -1,0 +1,16 @@
+import shops.*;
+import people.*;
+
+
+public class App{
+
+	public static void main(String[] args){
+
+	
+	products = "Milk";
+	seller = "Some guy";	
+	}
+
+
+
+}

@@ -1,0 +1,4 @@
+pacage people;
+
+
+public class Klant{}

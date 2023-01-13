@@ -1,0 +1,21 @@
+package shops;
+
+import people.Klant;
+
+
+
+public class Webshop{
+
+public String products;
+public String seller;
+
+private double price;
+private boolean open;
+
+
+public Klant k;
+
+k= new Klant();
+
+
+}
